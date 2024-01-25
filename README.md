@@ -19,6 +19,7 @@ It can be changed any time by the developer without any prior notice.
 
 The Software supplied on a CD-ROM or DVD medium, sent via electronic mail, downloaded from the Internet, downloaded from servers of the developer or obtained from other sources shall require installation. You must install the Software on a correctly configured computer complying at least with requirements set out in the Documentation. 
 The manner of installation is specified in the Documentation. 
+
 No computer programs or hardware which could unfavorably affect the Software may be installed on the computer on which you install the Software.
 
 2. GRANT OF LICENSE
