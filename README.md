@@ -3,7 +3,7 @@ Hard Disk Sentinel - End User License Agreement
 Important: Prior to download, installation, copy or use please read the below terms of the product application. 
 
 This End User License Agreement is a legal agreement between "you" (either an individual or a single entity) and H.D.S. Hungary as the "developer" of the software product identified above, which includes computer software (executable code) and may include associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT").
-By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this End-User License Agreement. If you do not agree to the terms of this End-User License Agreement, do not download, install, store, copy or use any part of the SOFTWARE PRODUCT.
+By installing, copying, or otherwise using the SOFTWARE PRODUCT,you agree to be bound by the terms of this End-User License Agreement. If you do not agree to the terms of this End-User License Agreement, do not download, install, store, copy or use any part of the SOFTWARE PRODUCT.
 
 Important: For any questions, problems, issues about the SOFTWARE PRODUCT, you should contact directly the developer, regardless of your reseller or supplier of any printed or associated material of the SOFTWARE PRODUCT.
 The support language can be English or Hungarian only, regardless of the actual language selected and used in the SOFTWARE PRODUCT.
