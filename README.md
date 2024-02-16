@@ -11,7 +11,6 @@ The support language can be English or Hungarian only , regardless of the actual
 The SOFTWARE PRODUCT and any associated documents, images, webpage contents are protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. 
 THIS IS NOT A PURCHASE CONTRACT BUT AN AGREEMENT ON THE RIGHTS OF THE END USER.
 The SOFTWARE PRODUCT is licensed, not sold: you do not own this software.
-
 The latest EULA is available from the webpage of this application.
 It can be changed any time by the developer without any prior notice.
 
